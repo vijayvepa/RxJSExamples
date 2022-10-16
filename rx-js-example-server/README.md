@@ -10,3 +10,6 @@
 ## Recipes API
 - Recipes API: https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular/tree/main/Chapter04/recipes-book-api 
 
+```sh
+npm run server:start
+```
